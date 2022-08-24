@@ -1,0 +1,6 @@
+# Credit Card Fraud Detection
+
+## Classification Problem
+
+## Estimators: XGBoost, Random Forest, KNN, Logistic Regression, SVM, Decision Tree
+
